@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+p {
+  font-style: normal;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  margin-left: 250px;
+  width: 100%;
+  color: #555555;
+  box-shadow: 10px solid;
+  position: center;
+  width: 900px;
+  border: 1px solid white;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+#header {
+  background-color: #555555;
+  margin: 0 auto;
+  margin-top: -20px;
+  max-width: auto;
+  max-height: auto;
+  padding: 10px;
+}
+
+#rodape {
+  background-color: #555555;
+  margin: 0 auto;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+#rodape-a {
+  background-color: #555555;
+  margin: 0 auto;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+h2	 {
+   color: #555555;
+   font-family: 'Lato', sans-serif;
+}
+
+h1	 {
+  font-size: 70px;
+  margin-left: 250px;
+  color: #555555;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  font-family: 'Lato', sans-serif;
+}
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+
+#menu-h{
+  background-color: rgb(37, 37, 39);
+}
+
+#menu-h ul {
+  max-width: 1500px;
+  list-style: none;
+  padding: 0;
+}
+
+#menu-h ul li {
+  display: inline;
+  color:rgb(37, 37, 39)
+}
+
+#menu-h ul li a {
+  background-color: rgb(37, 37, 39);
+  color: #FFF;
+  padding: 12px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+#menu-h ul li a:hover {
+  background-color: rgb(37, 37, 39);
+}
+
+#menu-h ul li:last-child a {
+  background-color: rgb(37, 37, 39);
+  float: right;
+  background-color: #555555;
+}
